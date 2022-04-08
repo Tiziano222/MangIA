@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MangIA</string>
+    <string name="pbSettlet">Powered By Settlet™</string>
+    <string name="iptMailTel">E-mail / Teléfono</string>
+    <string name="cntBtn">Continuar</string>
+    <string name="pass">Contraseña</string>
+    <string name="rPass">Repita la Contraseña</string>
+    <string name="mail">E-Mail</string>
+    <string name="tel">Teléfono</string>
+    <string name="userName">Nombre de Usuario</string>
+    <string name="nName">Apodo</string>
+    <string name="pLogin">Iniciar Sesión</string>
+    <string name="country">País</string>
+    <string name="region">Región</string>
+    <string name="dateBirth">Fecha de Nacimiento</string>
+    <string name="termsConditions">Para completar tu Registro, debes aceptar nuestros Términos de uso y el procesamiento, tratamiento y transferencia de tus datos personales conforme a lo dispuesto en las Políticas de Privacidad</string>
+    <string name="cancel">Cancelar</string>}
+    <string name="fPass">¿Olvidaste tu contraseña?</string>
+    <string name="logo">Logo MangIA</string>
+    <string name="google">Iniciar con Google</string>
+    <string name="facebook">Iniciar con Facebook</string>
+    <string name="twitter">Iniciar con Twitter</string>
+    <string name="register">Registrarme</string>
+    <string name="registerTitle">Registro</string>
+    <string name="rememberPass">Recuerdame</string>
+</resources>
